@@ -52,7 +52,25 @@
         {
           "image_file": "2323.webp",
           "emojis": ["😘","🍪"]
+        },
+
+        {
+          "image_file": "rotoim.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "amor.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "imssdiablo.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "angel.webp",
+          "emojis": ["😘","🍪"]
         }
+
       ]
     }
   ]
