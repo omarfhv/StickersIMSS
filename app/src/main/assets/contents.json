@@ -69,6 +69,43 @@
         {
           "image_file": "angel.webp",
           "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "enfermo.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "fuerza.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "super.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "pngmujer.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "porfavor.webp",
+          "emojis": ["😘","🍪"]
+        }
+      ,
+        {
+          "image_file": "reno.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "rojo.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "ola.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "explos.webp",
+          "emojis": ["😘","🍪"]
         }
 
       ]
