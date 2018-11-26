@@ -6,8 +6,8 @@
       "identifier": "1",
       "name": "Stickers IMSS",
       "publisher": "ToposDeus",
-      "tray_image_file": "logos.png",
-      "publisher_email":"",
+      "tray_image_file": "logoi.png",
+      "publisher_email":"toposdeus@gmail.com",
       "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
       "privacy_policy_website": "",
       "license_agreement_website": "",
@@ -17,15 +17,15 @@
           "emojis": ["♥"]
         },
         {
-          "image_file": "9.webp",
+          "image_file": "puno.webp",
           "emojis": ["👨🏻‍⚕","👩🏻‍⚕"]
         },
         {
-          "image_file": "12.webp",
+          "image_file": "lentes.webp",
           "emojis": ["☕","🥧"]
         },
         {
-          "image_file": "11.webp",
+          "image_file": "silencio.webp",
           "emojis": ["🏃‍♀","🏃‍♂"]
         },
 
@@ -141,12 +141,116 @@
           "emojis": ["🗑"]
         }
 
+      ]
+    },
 
+    {
+      "identifier": "2",
+      "name": "Stickers Variado",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logos.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ambu.webp",
+          "emojis": ["🚑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["👨🏻‍⚕","👩🏻‍⚕"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["☕","🥧"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+        {
+          "image_file": "ambu2.webp",
+          "emojis": ["🚑","🚑"]
+        },
+        {
+          "image_file": "cami.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+        {
+          "image_file": "camitra.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
 
+        {
+          "image_file": "dx.webp",
+          "emojis": ["📝"]
+        },
+        {
+          "image_file": "ser.webp",
+          "emojis": ["💍"]
+        },
 
+        {
+          "image_file": "tar.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "voy.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["🏃‍♀","🏃‍♂"]
+        },
+        {
+          "image_file": "desayuno.webp",
+          "emojis": ["☕","🥐"]
+        }
 
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Stickers Planillas",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logop.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "rojabien.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "blanca.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "dorada.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "morada.webp",
+          "emojis": ["❤"]
+        },
 
+        {
+          "image_file": "naranja.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "negra.webp",
+          "emojis": ["💚"]
+        },
 
+        {
+          "image_file": "verde.webp",
+          "emojis": ["💚"]
+        }
 
       ]
     }
