@@ -145,7 +145,7 @@
     },
 
     {
-      "identifier": "2",
+      "identifier": "6",
       "name": "Stickers Variado",
       "publisher": "ToposDeus",
       "tray_image_file": "logos.png",
@@ -249,6 +249,292 @@
 
         {
           "image_file": "verde.webp",
+          "emojis": ["💚"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Stickers Enfermera",
+      "publisher": "ToposDeus",
+      "tray_image_file": "enferlogo.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "enfer.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "enfer1.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer2.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer3.webp",
+          "emojis": ["❤"]
+        },
+
+        {
+          "image_file": "enfer4.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer5.webp",
+          "emojis": ["💚"]
+        },
+
+        {
+          "image_file": "enfer6.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer7.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer8.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer9.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer10.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer11.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer12.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer13.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer14.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer15.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer16.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer17.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer18.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer19.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer20.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer21.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer22.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer23.webp",
+          "emojis": ["💚"]
+        }
+      ,
+        {
+          "image_file": "enfer24.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer25.webp",
+          "emojis": ["💚"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Mas Stickers Enfermera",
+      "publisher": "ToposDeus",
+      "tray_image_file": "enferlogo1.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "enfer26.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "enfer27.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer28.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer29.webp",
+          "emojis": ["❤"]
+        },
+
+        {
+          "image_file": "enfer30.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "enfer31.webp",
+          "emojis": ["💚"]
+        },
+
+        {
+          "image_file": "enfer32.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer33.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer34.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer35.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer36.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer37.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer38.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer39.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer40.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer41.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer42.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer43.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer44.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "enfer45.webp",
+          "emojis": ["💚"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Mas Stickers IMSS",
+      "publisher": "ToposDeus",
+      "tray_image_file": "logomas.png",
+      "publisher_email":"toposdeus@gmail.com",
+      "publisher_website": "https://comunidadnoticiasimss.blogspot.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "bano.webp",
+          "emojis": ["♥"]
+        },
+        {
+          "image_file": "bien.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "dinero.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "dormir.webp",
+          "emojis": ["❤"]
+        },
+
+        {
+          "image_file": "emerg.webp",
+          "emojis": ["❤"]
+        },
+        {
+          "image_file": "felicidad.webp",
+          "emojis": ["💚"]
+        },
+
+        {
+          "image_file": "gro.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "idea.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "listo.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "pagame.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "pastel.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "reloj.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "rey.webp",
+          "emojis": ["💚"]
+        },
+        {
+          "image_file": "text.webp",
           "emojis": ["💚"]
         }
 
